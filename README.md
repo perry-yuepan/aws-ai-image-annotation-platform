@@ -1,7 +1,7 @@
 # AWS AI Image Annotation Platform
 
 An AWS-based image annotation platform for uploading images, storing them in Amazon S3, generating captions with Google Gemini, and managing annotation records through a web interface.
-![aws ai image annoation platform Demo]([./image-platform-guidance.GIF](https://github.com/perry-yuepan/aws-ai-image-annotation-platform/blob/main/image-%20platform-guidance.GIF)
+![AWS AI Image Annotation Platform Demo](https://github.com/perry-yuepan/aws-ai-image-annotation-platform/blob/main/image-%20platform-guidance.GIF)
 ## Project Overview
 
 This project implements an image annotation web application that combines:
