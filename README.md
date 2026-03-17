@@ -1,7 +1,7 @@
 # AWS AI Image Annotation Platform
 
 An AWS-based image annotation platform for uploading images, storing them in Amazon S3, generating captions with Google Gemini, and managing annotation records through a web interface.
-
+![aws ai image annoation platform Demo]([./image-platform-guidance.GIF](https://github.com/perry-yuepan/aws-ai-image-annotation-platform/blob/main/image-%20platform-guidance.GIF)
 ## Project Overview
 
 This project implements an image annotation web application that combines:
@@ -143,6 +143,10 @@ Then open the local address shown in the terminal in your browser.
   - `lambda-final/`
 
 ## Appendix
-- Report:
-- testing screenshoot from aws:
-- video: 
+
+- **Project Report:** [AWS AI Image Annotation Platform Project Report](https://github.com/perry-yuepan/aws-ai-image-annotation-platform/blob/main/report/AWS_AI_Image_Annotation%20Platform_Project_Report.pdf)
+- **AWS Testing Screenshots:** [View screenshots](https://github.com/perry-yuepan/aws-ai-image-annotation-platform/tree/main/doc/screenshots)
+- **Architecture Diagram:** [View architecture diagram](https://github.com/perry-yuepan/aws-ai-image-annotation-platform/blob/main/doc/architetcure.png)
+- **Serverless Architecture Diagram:** [View serverless architecture](https://github.com/perry-yuepan/aws-ai-image-annotation-platform/blob/main/doc/severless_architecture.png)
+- **Project Demo Video / GIF:** [View demo](https://github.com/perry-yuepan/aws-ai-image-annotation-platform/blob/main/image-%20platform-guidance.GIF)
+- **Testing Images:** [View testing pictures](https://github.com/perry-yuepan/aws-ai-image-annotation-platform/tree/main/testing_pics)
